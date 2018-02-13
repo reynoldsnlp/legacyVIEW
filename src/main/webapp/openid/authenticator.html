@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="UTF-8">
+	<script src="../js-lib-viewWE/jquery-3.1.0.min.js"></script>
+	<script src="../js-lib-viewWE/view.js"></script>
+	<script src="../js-lib-viewWE/cookies.js"></script>
+	<link href="../js-lib-viewWE/authenticator.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	<script src="https://www.gstatic.com/firebasejs/ui/live/0.4/firebase-ui-auth.js"></script>
+	<link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/live/0.4/firebase-ui-auth.css" />
+	<style>
+      body {
+        margin: 0;
+      }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://www.gstatic.com/firebasejs/3.3.0/firebase.js"></script>
+	<script>
+		// Initialize Firebase
+		var config = {
+			apiKey: "AIzaSyDyYmNenfa_WZXKytcNJhJgbh0PuNrCams",
+			authDomain: "rus-view.firebaseapp.com",
+			databaseURL: "https://rus-view.firebaseio.com",
+			storageBucket: "rus-view.appspot.com",
+		};
+		firebase.initializeApp(config);
+	</script>
+	<script type="text/javascript">
+		// FirebaseUI config.
+		var uiConfig = {
+			"callbacks": {
+				"signInSuccess": function(user, credential, redirectUrl) {
+					if (window.opener) {
+						// The widget has been opened in a popup.
+						return false;
+					} 
+				}
+			},
+			"signInOptions": [
+				// Leave the lines as is for the providers you want to offer your users.
+				firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+				firebase.auth.FacebookAuthProvider.PROVIDER_ID,
+				firebase.auth.TwitterAuthProvider.PROVIDER_ID,
+				firebase.auth.GithubAuthProvider.PROVIDER_ID,
+				firebase.auth.EmailAuthProvider.PROVIDER_ID
+			],
+			// Terms of service url.
+			"tosUrl": "http://gtlab.uit.no:8080/VIEW/index.jsp?content=firefox-extension", 
+		};
+	
+		// Initialize the FirebaseUI Widget using Firebase.
+		var ui = new firebaseui.auth.AuthUI(firebase.auth());
+		// The start method will wait until the DOM is loaded.
+		ui.start("#firebaseui-auth-container", uiConfig);
+	</script>		
+		
+	<title>VIEW: Sign in with your account</title>
+	<script>
+	
+	function main() {
+	
+		// check if cookies are enabled
+		var divCookiesOn = document.getElementById("if-cookies-enabled");
+		var divCookiesOff = document.getElementById("if-cookies-disabled");
+		
+		if (view.cookies.areCookiesEnabled(document, view.cookie_path)) {
+			divCookiesOn.style.display = "block";
+			divCookiesOff.style.display = "none";
+		}
+		else {
+			divCookiesOn.style.display = "none";
+			divCookiesOff.style.display = "block";
+			var span = document.getElementById("server-url");
+			span.innerHTML = view.serverURL; 
+		}		
+	}
+	</script>
+	<meta http-equiv="Content-Type"
+		content="application/xhtml+xml; charset=UTF-8" />
+	<link type="text/css" href="/VIEW/view.css" rel="stylesheet" />
+  </head>
+<body onload="main()">
+	<div id="wrapper">
+		<div id="main">
+			<div id="mainpartwrapper">
+				<div id="mainpart">
+					<div id="if-cookies-enabled">
+						<div id="container">
+					      <div id="user-signed-in" class="hidden">
+					      <h3>You are signed in as</h3>
+					        <div id="user-info">
+					          <div id="photo-container">
+					            <img id="photo"></img>
+					          </div>
+					          <div id="name"></div>
+					          <div id="email"></div>
+					          <div class="clearfix"></div>
+					        </div>
+					      </div>
+					      <div id="user-signed-out" class="hidden">
+					        <div id="firebaseui-auth-container">					        
+								<h1>Sign in with your account</h1>
+					        </div>
+					      </div>
+					    </div>
+					    <script src="../js-lib-viewWE/authenticator.js"></script>
+					</div>
+					<div id="if-cookies-disabled" class="hidden">
+						<h1>Cookies Required</h1>
+						<p>
+							You have cookies disabled in your browser, but
+							they need to be enabled for signing in with OpenID.
+							Please enable cookies either for all websites or
+							only for <span id="server-url"></span>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

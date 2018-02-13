@@ -1,0 +1,1841 @@
+"<Вспомогательные>"
+	"вспомогательный" A MFN AnIn Pl Nom
+	"вспомогательный" A MFN Inan Pl Acc
+"<ссылки>"
+	"ссылка" N Fem Inan Sg Gen
+	"ссылка" N Fem Inan Pl Nom
+	"ссылка" N Fem Inan Pl Acc
+"<Перейти>"
+	"перейти" V Perf IV Inf
+	"перейти" V Perf TV Inf
+"<к>"
+	"к" Pr
+"<содержанию>"
+	"содержание" N Neu Inan Sg Dat
+"<Accessibility>"
+"<Help>"
+"<Войти>"
+	"войти" V Perf IV Inf
+"<Навигация>"
+	"навигация" N Fem Inan Sg Nom
+"<на>"
+	"на" Pr
+"<сайте>"
+	"сайт" N Msc Inan Sg Loc
+"<Меню>"
+	"меню" N Neu Inan Pl Nom
+	"меню" N Neu Inan Pl Acc
+	"меню" N Neu Inan Pl Ins
+	"меню" N Neu Inan Pl Dat
+	"меню" N Neu Inan Sg Gen
+	"меню" N Neu Inan Pl Gen
+	"меню" N Neu Inan Sg Nom
+	"меню" N Neu Inan Sg Acc
+	"меню" N Neu Inan Sg Ins
+	"меню" N Neu Inan Sg Dat
+"<Поиск>"
+	"поиск" N Msc Inan Sg Nom
+	"поиск" N Msc Inan Sg Acc
+"<по>"
+	"по" Pr
+"<Би-би-си>"
+"<Меню>"
+	"меню" N Neu Inan Pl Nom
+	"меню" N Neu Inan Pl Acc
+	"меню" N Neu Inan Pl Ins
+	"меню" N Neu Inan Pl Dat
+	"меню" N Neu Inan Sg Gen
+	"меню" N Neu Inan Pl Gen
+	"меню" N Neu Inan Sg Nom
+	"меню" N Neu Inan Sg Acc
+	"меню" N Neu Inan Sg Ins
+	"меню" N Neu Inan Sg Dat
+"<News>"
+"<Sport>"
+"<Weather>"
+"<Radio>"
+"<BBC>"
+"<Russian>"
+"<Russian>"
+"<navigation>"
+"<Разделы>"
+	"раздел" N Msc Inan Pl Nom
+	"раздел" N Msc Inan Pl Acc
+"<Главная>"
+	"главный" A Fem AnIn Sg Nom
+"<Новости>"
+	"новость" N Fem Inan Sg Dat
+	"новость" N Fem Inan Pl Acc
+	"новость" N Fem Inan Sg Gen
+	"новость" N Fem Inan Pl Nom
+"<В>"
+	"в" Pr
+"<мире>"
+	"мир" N Msc Inan Sg Loc
+"<Россия>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Nom
+"<Видео>"
+	"видео" N Neu Inan Pl Nom
+	"видео" N Neu Inan Pl Acc
+	"видео" N Neu Inan Pl Ins
+	"видео" N Neu Inan Pl Dat
+	"видео" N Neu Inan Sg Gen
+	"видео" N Neu Inan Pl Gen
+	"видео" N Neu Inan Sg Nom
+	"видео" N Neu Inan Sg Acc
+	"видео" N Neu Inan Sg Ins
+	"видео" N Neu Inan Sg Dat
+"<Выбор>"
+	"выбор" N Msc Inan Sg Nom
+	"выбор" N Msc Inan Sg Acc
+"<редактора>"
+	"редактор" N Msc Anim Pl Nom
+	"редактор" N Msc Anim Sg Acc
+	"редактор" N Msc Anim Sg Gen
+"<Журнал>"
+	"журнал" N Msc Inan Sg Nom
+	"журнал" N Msc Inan Sg Acc
+"<Блоги>"
+"<Британия>"
+	"Британия" N Prop Sem/Alt Fem Inan Sg Nom
+"<Экономика>"
+	"экономика" N Fem Inan Sg Nom
+"<Спорт>"
+	"спорт" N Msc Inan Sg Nom
+	"спорт" N Msc Inan Sg Acc
+"<Наука>"
+	"наука" N Fem Inan Sg Nom
+"<Общество>"
+	"общество" N Neu Inan Sg Nom
+	"общество" N Neu Inan Sg Acc
+"<Аналитика>"
+	"аналитик" N Msc Anim Sg Acc
+	"аналитик" N Msc Anim Sg Gen
+	"аналитика" N Fem Inan Sg Nom
+"<Learning>"
+"<English>"
+"<Фото>"
+	"фото" N Neu Inan Pl Nom
+	"фото" N Neu Inan Pl Acc
+	"фото" N Neu Inan Pl Ins
+	"фото" N Neu Inan Pl Dat
+	"фото" N Neu Inan Sg Gen
+	"фото" N Neu Inan Pl Gen
+	"фото" N Neu Inan Sg Nom
+	"фото" N Neu Inan Sg Acc
+	"фото" N Neu Inan Sg Ins
+	"фото" N Neu Inan Sg Dat
+"<Еще>"
+	"ещё" Adv
+"<Разделы>"
+	"раздел" N Msc Inan Pl Nom
+	"раздел" N Msc Inan Pl Acc
+"<Наука>"
+	"наука" N Fem Inan Sg Nom
+"<Общество>"
+	"общество" N Neu Inan Sg Nom
+	"общество" N Neu Inan Sg Acc
+"<Аналитика>"
+	"аналитик" N Msc Anim Sg Acc
+	"аналитик" N Msc Anim Sg Gen
+	"аналитика" N Fem Inan Sg Nom
+"<Learning>"
+"<English>"
+"<Фото>"
+	"фото" N Neu Inan Pl Nom
+	"фото" N Neu Inan Pl Acc
+	"фото" N Neu Inan Pl Ins
+	"фото" N Neu Inan Pl Dat
+	"фото" N Neu Inan Sg Gen
+	"фото" N Neu Inan Pl Gen
+	"фото" N Neu Inan Sg Nom
+	"фото" N Neu Inan Sg Acc
+	"фото" N Neu Inan Sg Ins
+	"фото" N Neu Inan Sg Dat
+"<Реклама>"
+	"реклама" N Fem Inan Sg Nom
+"<Спонсор>"
+	"спонсор" N Msc Anim Sg Nom
+"<:>"
+	":" SENT
+"<Фанаты>"
+	"фанат" N Msc Anim Pl Nom
+"<сборной>"
+	"сборный" A Fem AnIn Sg Ins
+	"сборный" A Fem AnIn Sg Dat
+	"сборная" N Fem Inan Sg Dat
+	"сборный" A Fem AnIn Sg Gen
+	"сборная" N Fem Inan Sg Ins
+	"сборная" N Fem Inan Sg Gen
+"<Англии>"
+	"Англия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Англия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Англия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Англия" N Prop Sem/Alt Fem Inan Pl Nom
+"<подрались>"
+	"подраться" V Perf IV Pst MFN Pl
+"<с>"
+	"с" Pr
+"<полицейскими>"
+	"полицейский" N Msc Anim Pl Ins
+	"полицейский" A MFN AnIn Pl Ins
+"<в>"
+	"в" Pr
+"<Марселе>"
+	"марсель" N Msc Inan Sg Loc
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Loc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Loc
+"<31>"
+	"31" Num
+"<минута>"
+	"минута" N Fem Inan Sg Nom
+"<назад>"
+	"назад" Adv
+"<Поделиться>"
+	"поделиться" V Perf IV Inf
+"<Image>"
+"<copyright>"
+"<AP>"
+"<Image>"
+"<caption>"
+"<Полиция>"
+	"полиция" N Fem Inan Sg Nom
+"<Марселя>"
+	"марсель" N Msc Inan Sg Gen
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Gen
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Acc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Gen
+"<применяла>"
+	"применять" V Impf IV Pst Fem Sg
+	"применять" V Impf TV Pst Fem Sg
+"<слезоточивый>"
+	"слезоточивый" A Msc AnIn Sg Nom
+	"слезоточивый" A Msc Inan Sg Acc
+"<газ>"
+	"газ" N Msc Inan Sg Nom
+	"газ" N Msc Inan Sg Acc
+"<несколько>"
+	"несколько" Num Inan Acc
+	"несколько" Num Anim Acc
+	"несколько" Num Nom
+	"несколько" Adv
+"<раз>"
+	"раз²" Adv
+	"раз²" CS
+	"раз²" Pred
+	"раз¹" N Msc Inan Pl Gen
+	"раз¹" N Msc Inan Sg Nom
+	"раз¹" N Msc Inan Sg Acc
+"<за>"
+	"за" Pr
+"<вечер>"
+	"вечер" N Msc Inan Sg Acc
+"<Полиция>"
+	"полиция" N Fem Inan Sg Nom
+"<французского>"
+	"французский" A Neu AnIn Sg Gen
+	"французский" A Msc Anim Sg Acc
+	"французский" A Msc AnIn Sg Gen
+"<Марселя>"
+	"марсель" N Msc Inan Sg Gen
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Gen
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Acc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Gen
+"<,>"
+	"," COMMA
+"<где>"
+	"где" Adv Rel
+	"где" Adv Interr
+"<в>"
+	"в" Pr
+"<субботу>"
+	"суббота" N Fem Inan Sg Acc
+"<состоится>"
+	"состояться" V Perf IV Fut Sg3
+"<матч>"
+	"матч" N Msc Inan Sg Nom
+"<между>"
+	"между" Pr
+"<сборными>"
+	"сборный" A MFN AnIn Pl Ins
+	"сборная" N Fem Inan Pl Ins
+"<по>"
+	"по" Pr
+"<футболу>"
+	"футбол" N Msc Inan Sg Dat
+"<Англии>"
+	"Англия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Англия" N Prop Sem/Alt Fem Inan Sg Gen
+"<и>"
+	"и" CC
+"<России>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Россия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Россия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Россия" N Prop Sem/Alt Fem Inan Pl Nom
+"<,>"
+	"," COMMA
+"<вновь>"
+	"вновь" Adv
+"<применила>"
+	"применить" V Perf IV Pst Fem Sg
+	"применить" V Perf TV Pst Fem Sg
+"<слезоточивый>"
+	"слезоточивый" A Msc AnIn Sg Nom
+	"слезоточивый" A Msc Inan Sg Acc
+"<газ>"
+	"газ" N Msc Inan Sg Nom
+	"газ" N Msc Inan Sg Acc
+"<,>"
+	"," COMMA
+"<чтобы>"
+	"чтобы" Pcle
+	"чтобы" CS
+"<прекратить>"
+	"прекратить" V Perf TV Inf
+"<драку>"
+	"драка" N Fem Inan Sg Acc
+"<с>"
+	"с" Pr
+"<участием>"
+	"участие" N Neu Inan Sg Ins
+"<фанатов>"
+	"фанат" N Msc Anim Pl Gen
+	"фанат" N Msc Anim Pl Acc
+"<английской>"
+	"английский" A Fem AnIn Sg Ins
+	"английский" A Fem AnIn Sg Dat
+	"английский" A Fem AnIn Sg Gen
+"<национальной>"
+	"национальный" A Fem AnIn Sg Ins
+	"национальный" A Fem AnIn Sg Dat
+	"национальный" A Fem AnIn Sg Gen
+"<команды>"
+	"команда" N Fem Inan Sg Gen
+	"команда" N Fem Inan Pl Nom
+	"команда" N Fem Inan Pl Acc
+"<.>"
+	"." SENT
+
+"<Ранее>"
+	"ранее" Adv Cmpar
+"<сообщалось>"
+	"сообщаться" V Impf IV Pst Neu Sg
+"<,>"
+	"," COMMA
+"<что>"
+	"что¹" Pron Rel Neu Inan Sg Nom
+	"что²" CS
+	"что¹" Pron Interr Neu Inan Sg Nom
+"<в>"
+	"в" Pr
+"<четверг>"
+	"четверг" N Msc Inan Sg Acc
+"<вечером>"
+	"вечер" N Msc Inan Sg Ins
+"<в>"
+	"в" Pr
+"<Марселе>"
+	"марсель" N Msc Inan Sg Loc
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Loc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Loc
+"<произошли>"
+	"произойти" V Perf IV Pst MFN Pl
+"<столкновения>"
+	"столкновение" N Neu Inan Sg Gen
+	"столкновение" N Neu Inan Pl Nom
+"<между>"
+	"между" Pr
+"<футбольными>"
+	"футбольный" A MFN AnIn Pl Ins
+"<фанатами>"
+	"фанат" N Msc Anim Pl Ins
+"<из>"
+	"из" Pr
+"<Британии>"
+	"Британия" N Prop Sem/Alt Fem Inan Sg Gen
+"<и>"
+	"и" CC @CNP
+"<местной>"
+	"местный" A Fem AnIn Sg Ins
+"<молодежью>"
+	"молодёжь" N Fem Inan Sg Ins
+"<.>"
+	"." SENT
+
+"<По>"
+	"по" Pr
+"<приблизительным>"
+	"приблизительный" A MFN AnIn Pl Dat
+"<данным>"
+	"дать" V Perf TV PstPss Neu AnIn Sg Ins
+	"дать" V Perf TV PstPss MFN AnIn Pl Dat
+	"дать" V Perf TV PstPss Msc AnIn Sg Ins
+	"данные" N MFN Inan Pl Dat
+	"данный" Det Neu AnIn Sg Ins
+	"данный" Det MFN AnIn Pl Dat
+	"данный" Det Msc AnIn Sg Ins
+	"данный" Pron Neu AnIn Sg Ins
+	"данный" Pron MFN AnIn Pl Dat
+	"данный" Pron Msc AnIn Sg Ins
+"<,>"
+	"," COMMA
+"<в>"
+	"в" Pr
+"<драке>"
+	"драка" N Fem Inan Sg Loc
+"<участвовали>"
+	"участвовать" V Impf IV Pst MFN Pl
+"<около>"
+	"около" Adv
+	"около" Pr
+"<100>"
+	"100" Num
+"<фанатов>"
+	"фанат" N Msc Anim Pl Gen
+"<сборной>"
+	"сборный" A Fem AnIn Sg Ins
+	"сборный" A Fem AnIn Sg Dat
+	"сборная" N Fem Inan Sg Dat
+	"сборный" A Fem AnIn Sg Gen
+	"сборная" N Fem Inan Sg Ins
+	"сборная" N Fem Inan Sg Gen
+"<Англии>"
+	"Англия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Англия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Англия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Англия" N Prop Sem/Alt Fem Inan Pl Nom
+"<и>"
+	"и" CC @CNP
+"<более>"
+	"более" Adv Cmpar
+"<50>"
+	"50" Num
+"<местных>"
+	"местный" N Msc Anim Pl Gen
+	"местный" A MFN AnIn Pl Gen
+	"местный" N Msc Anim Pl Acc
+	"местный" A MFN Anim Pl Acc
+"<жителей>"
+	"житель" N Msc Anim Pl Acc
+	"житель" N Msc Anim Pl Gen
+"<.>"
+	"." SENT
+
+"<По>"
+	"по" Pr
+"<итогам>"
+	"итог" N Msc Inan Pl Dat
+"<драки>"
+	"драка" N Fem Inan Sg Gen
+	"драка" N Fem Inan Pl Nom
+	"драка" N Fem Inan Pl Acc
+"<двое>"
+	"двое" Num Inan Acc
+	"двое" Num Nom
+"<болельщиков>"
+	"болельщик" N Msc Anim Pl Gen
+	"болельщик" N Msc Anim Pl Acc
+"<из>"
+	"из" Pr
+"<Британии>"
+	"Британия" N Prop Sem/Alt Fem Inan Sg Gen
+"<были>"
+	"быть" V Impf IV Pst MFN Pl
+"<арестованы>"
+	"арестовать" V Perf TV PstPss MFN Pl Pred
+"<,>"
+	"," COMMA
+"<еще>"
+	"ещё" Adv
+"<один>"
+	"один" Num Msc Inan Sg Acc
+	"один" Num Msc AnIn Sg Nom
+	"один" Pron Msc Inan Sg Acc
+	"один" Pron Msc AnIn Sg Nom
+"<госпитализирован>"
+	"госпитализировать" V Perf TV PstPss Msc Sg Pred
+"<с>"
+	"с" Pr
+"<травмой>"
+	"травма" N Fem Inan Sg Ins
+"<головы>"
+	"голова" N Fem Inan Pl Nom
+	"голова" N Fem Inan Pl Acc
+	"голова" N Fem Inan Sg Gen
+"<.>"
+	"." SENT
+
+"<Выйти>"
+	"выйти" V Perf IV Inf
+"<из>"
+	"из" Pr
+"<плеера>"
+	"плеер" N Msc Inan Sg Gen
+"<Помощь>"
+	"помощь" N Fem Inan Sg Nom
+"<Выход>"
+	"выход" N Msc Inan Sg Nom
+"<из>"
+	"из" Pr
+"<плеера>"
+	"плеер" N Msc Inan Sg Gen
+"<.>"
+	"." SENT
+
+"<Нажмите>"
+	"нажать¹" V Perf IV Imp Pl2
+	"нажать¹" V Perf TV Imp Pl2
+"<Enter>"
+"<,>"
+	"," COMMA
+"<чтобы>"
+	"чтобы" Pcle
+	"чтобы" CS
+"<вернуться>"
+	"вернуться" V Perf IV Inf
+"<,>"
+	"," COMMA
+"<или>"
+	"или" CC
+"<кликните>"
+	"кликнуть" V Perf IV Imp Pl2
+	"кликнуть" V Perf TV Imp Pl2
+"<,>"
+	"," COMMA
+"<чтобы>"
+	"чтобы" Pcle
+	"чтобы" CS
+"<продолжать>"
+	"продолжать" V Impf IV Inf
+	"продолжать" V Impf TV Inf
+"<Как>"
+	"как" Adv Rel
+	"как" CS
+	"как" CC
+"<сообщает>"
+	"сообщать" V Impf IV Prs Sg3
+	"сообщать" V Impf TV Prs Sg3
+"<корреспондент>"
+	"корреспондент" N Msc Anim Sg Nom
+"<Би-би-си>"
+"<,>"
+	"," COMMA
+"<уже>"
+	"уже" Adv
+	"уже" Pcle
+"<после>"
+	"после" Pr
+"<драки>"
+	"драка" N Fem Inan Sg Gen
+"<полиция>"
+	"полиция" N Fem Inan Sg Nom
+"<задержала>"
+	"задержать" V Perf IV Pst Fem Sg
+	"задержать" V Perf TV Pst Fem Sg
+"<в>"
+	"в" Pr
+"<районе>"
+	"район" N Msc Inan Sg Loc
+"<старого>"
+	"старое" N Neu Inan Sg Gen
+	"старый" A Neu AnIn Sg Gen
+	"старый" A Msc Anim Sg Acc
+	"старый" A Msc AnIn Sg Gen
+"<порта>"
+	"порт²" N Msc Inan Sg Gen
+	"порт¹" N Msc Inan Sg Gen
+"<в>"
+	"в" Pr
+"<центре>"
+	"центр" N Msc Inan Sg Loc
+"<Марселя>"
+	"марсель" N Msc Inan Sg Gen
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Gen
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Acc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Gen
+"<еще>"
+	"ещё" Adv
+"<как>"
+	"как" Adv Rel
+	"как" CS
+	"как" CC
+"<минимум>"
+	"минимум" N Msc Inan Sg Nom
+	"минимум" N Msc Inan Sg Acc
+"<трех>"
+	"три" Num Msc Anim Acc
+	"три" Num Gen
+"<человек>"
+	"человек" N Msc Anim Pl Gen Count
+"<.>"
+	"." SENT
+
+"<Выйти>"
+	"выйти" V Perf IV Inf
+"<из>"
+	"из" Pr
+"<плеера>"
+	"плеер" N Msc Inan Sg Gen
+"<Помощь>"
+	"помощь" N Fem Inan Sg Nom
+"<Выход>"
+	"выход" N Msc Inan Sg Nom
+"<из>"
+	"из" Pr
+"<плеера>"
+	"плеер" N Msc Inan Sg Gen
+"<.>"
+	"." SENT
+
+"<Нажмите>"
+	"нажать¹" V Perf IV Imp Pl2
+	"нажать¹" V Perf TV Imp Pl2
+"<Enter>"
+"<,>"
+	"," COMMA
+"<чтобы>"
+	"чтобы" Pcle
+	"чтобы" CS
+"<вернуться>"
+	"вернуться" V Perf IV Inf
+"<,>"
+	"," COMMA
+"<или>"
+	"или" CC
+"<кликните>"
+	"кликнуть" V Perf IV Imp Pl2
+	"кликнуть" V Perf TV Imp Pl2
+"<,>"
+	"," COMMA
+"<чтобы>"
+	"чтобы" Pcle
+	"чтобы" CS
+"<продолжать>"
+	"продолжать" V Impf IV Inf
+	"продолжать" V Impf TV Inf
+"<10>"
+	"10" Num
+"<июня>"
+	"июнь" N Msc Inan Sg Gen
+"<во>"
+	"в" Pr Epenth
+"<Франции>"
+	"Франция" N Prop Sem/Alt Fem Inan Pl Acc
+	"Франция" N Prop Sem/Alt Fem Inan Sg Loc
+"<стартует>"
+	"стартовать" V Impf IV Prs Sg3
+	"стартовать" V Perf IV Fut Sg3
+"<чемпионат>"
+	"чемпионат" N Msc Inan Sg Nom
+"<Европы>"
+	"Европа" N Prop Sem/Alt Fem Inan Sg Gen
+	"Европа" N Prop Sem/Alt Fem Inan Pl Nom
+	"Европа" N Prop Sem/Alt Fem Inan Pl Acc
+	"Европа" N Prop Sem/Ant Fem Anim Sg Gen
+	"Европа" N Prop Sem/Ant Fem Anim Pl Nom
+"<по>"
+	"по" Pr
+"<футболу>"
+	"футбол" N Msc Inan Sg Dat
+"<.>"
+	"." SENT
+
+"<Турнир>"
+	"турнир" N Msc Inan Sg Nom
+	"турнир" N Msc Inan Sg Acc
+"<открывается>"
+	"открываться" V Impf IV Prs Sg3
+	"открывать" V Impf TV Prs Sg3 Pass
+"<игрой>"
+	"игра" N Fem Inan Sg Ins
+"<команд>"
+	"команда" N Fem Inan Pl Gen
+"<Франции>"
+	"Франция" N Prop Sem/Alt Fem Inan Sg Dat
+	"Франция" N Prop Sem/Alt Fem Inan Sg Gen
+"<и>"
+	"и" CC
+"<Румынии>"
+	"Румыния" N Prop Sem/Alt Fem Inan Sg Dat
+	"Румыния" N Prop Sem/Alt Fem Inan Pl Acc
+	"Румыния" N Prop Sem/Alt Fem Inan Sg Gen
+	"Румыния" N Prop Sem/Alt Fem Inan Pl Nom
+"<,>"
+	"," COMMA
+"<а>"
+	"а" CC
+"<11>"
+	"11" Num
+"<июня>"
+	"июнь" N Msc Inan Sg Gen
+"<в>"
+	"в" Pr
+"<Марселе>"
+	"марсель" N Msc Inan Sg Loc
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Loc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Loc
+"<встречаются>"
+	"встречаться" V Impf IV Prs Pl3
+"<сборные>"
+	"сборный" A MFN AnIn Pl Nom
+	"сборная" N Fem Inan Pl Nom
+"<Англии>"
+	"Англия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Англия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Англия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Англия" N Prop Sem/Alt Fem Inan Pl Nom
+"<и>"
+	"и" CC @CNP
+"<России>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Россия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Россия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Россия" N Prop Sem/Alt Fem Inan Pl Nom
+"<.>"
+	"." SENT
+
+"<Поделиться>"
+	"поделиться" V Perf IV Inf
+"<ссылкой>"
+	"ссылка" N Fem Inan Sg Ins
+"<О том>"
+"<,>"
+	"," COMMA
+"< как поделиться>"
+"<Facebook>"
+"<Twitter>"
+"<ВКонтакте>"
+"<Google>"
+"<+>"
+"<LiveJournal>"
+"<Мой>"
+	"мыть" V Impf IV Imp Sg2
+	"мыть" V Impf TV Imp Sg2
+	"мой" Det Pos Msc Inan Sg Acc
+	"мой" Det Pos Msc AnIn Sg Nom
+	"мой" Pron Pos Msc Inan Sg Acc
+	"мой" Pron Pos Msc AnIn Sg Nom
+"<Мир>"
+	"Мира" N Prop Sem/Ant Fem Anim Sg Voc
+	"Мира" N Prop Sem/Alt Fem Inan Pl Gen
+	"Мира" N Prop Sem/Ant Fem Anim Pl Acc
+	"Мира" N Prop Sem/Ant Fem Anim Pl Gen
+"<Одноклассники>"
+	"одноклассник" N Msc Anim Pl Nom
+"<Email>"
+"<Linkedin>"
+"<WhatsApp>"
+"<Наверх>"
+	"наверх" Adv
+"<Другие>"
+	"другой" N Msc Anim Pl Nom
+	"другой" Det MFN AnIn Pl Nom
+	"другой" Det MFN Inan Pl Acc
+	"другой" Pron MFN AnIn Pl Nom
+	"другой" Pron MFN Inan Pl Acc
+"<истории>"
+	"история" N Fem Inan Sg Dat
+	"история" N Fem Inan Pl Acc
+	"история" N Fem Inan Sg Gen
+	"история" N Fem Inan Pl Nom
+"<раздела>"
+	"раздеть" V Perf IV Pst Fem Sg
+	"раздеть" V Perf TV Pst Fem Sg
+	"раздел" N Msc Inan Sg Gen
+"<Германия>"
+	"Германия" N Prop Sem/Alt Fem Inan Sg Nom
+"<призвала>"
+	"призвать" V Perf IV Pst Fem Sg
+	"призвать" V Perf TV Pst Fem Sg
+"<МОК>"
+"<не>"
+	"не" Pcle
+"<допускать>"
+	"допускать" V Impf IV Inf
+	"допускать" V Impf TV Inf
+"<российских>"
+	"российский" A MFN Anim Pl Acc
+	"российский" A MFN AnIn Pl Gen
+"<атлетов>"
+	"атлет" N Msc Anim Pl Gen
+	"атлет" N Msc Anim Pl Acc
+"<к>"
+	"к" Pr
+"<Олимпиаде>"
+	"Олимпиада" N Prop Sem/Ant Fem Anim Sg Dat
+"<1>"
+	"1" Num
+"<час>"
+	"час" N Msc Inan Sg Nom
+	"час" N Msc Inan Sg Acc
+"<назад>"
+	"назад" Adv
+"<Германия>"
+	"Германия" N Prop Sem/Alt Fem Inan Sg Nom
+"<призвала>"
+	"призвать" V Perf IV Pst Fem Sg
+	"призвать" V Perf TV Pst Fem Sg
+"<МОК>"
+"<не>"
+	"не" Pcle
+"<допускать>"
+	"допускать" V Impf IV Inf
+	"допускать" V Impf TV Inf
+"<российских>"
+	"российский" A MFN Anim Pl Acc
+	"российский" A MFN AnIn Pl Gen
+"<атлетов>"
+	"атлет" N Msc Anim Pl Gen
+	"атлет" N Msc Anim Pl Acc
+"<к>"
+	"к" Pr
+"<Олимпиаде>"
+	"Олимпиада" N Prop Sem/Ant Fem Anim Sg Dat
+"<Спектакль>"
+	"спектакль" N Msc Inan Sg Nom
+	"спектакль" N Msc Inan Sg Acc
+"<">"
+	""" QUOT
+"<Пушкин>"
+	"Пушкин" N Prop Sem/Alt Msc Inan Sg Nom
+	"Пушкин" N Prop Sem/Alt Msc Inan Sg Acc
+	"Пушкин" N Prop Sem/Sur Msc Anim Sg Nom
+"<и>"
+	"и" CC
+"<деньги>"
+	"деньги" N Fem Inan Pl Nom
+	"деньги" N Fem Inan Pl Acc
+"<">"
+	""" QUOT
+"<снят>"
+	"снять" V Perf TV PstPss Msc Sg Pred
+"<с>"
+	"с" Pr
+"<фестиваля>"
+	"фестиваль" N Msc Inan Sg Gen
+"<">"
+	""" QUOT
+"<по>"
+	"по" Pr
+"<цензуре>"
+	"цензура" N Fem Inan Sg Dat
+	"цензура" N Fem Inan Sg Loc
+"<">"
+	""" QUOT
+"<2>"
+	"2" Num
+"<часа>"
+	"час" N Msc Inan Sg Gen
+"<назад>"
+	"назад" Adv
+"<Спектакль>"
+	"спектакль" N Msc Inan Sg Nom
+	"спектакль" N Msc Inan Sg Acc
+"<">"
+	""" QUOT
+"<Пушкин>"
+	"Пушкин" N Prop Sem/Alt Msc Inan Sg Nom
+	"Пушкин" N Prop Sem/Alt Msc Inan Sg Acc
+	"Пушкин" N Prop Sem/Sur Msc Anim Sg Nom
+"<и>"
+	"и" CC
+"<деньги>"
+	"деньги" N Fem Inan Pl Nom
+	"деньги" N Fem Inan Pl Acc
+"<">"
+	""" QUOT
+"<снят>"
+	"снять" V Perf TV PstPss Msc Sg Pred
+"<с>"
+	"с" Pr
+"<фестиваля>"
+	"фестиваль" N Msc Inan Sg Gen
+"<">"
+	""" QUOT
+"<по>"
+	"по" Pr
+"<цензуре>"
+	"цензура" N Fem Inan Sg Dat
+	"цензура" N Fem Inan Sg Loc
+"<">"
+	""" QUOT
+"<Власти>"
+	"власти" N Fem Inan Pl Nom
+	"власти" N Fem Inan Pl Acc
+	"власть" N Fem Inan Sg Dat
+	"власть" N Fem Inan Pl Acc
+	"власть" N Fem Inan Sg Gen
+	"власть" N Fem Inan Pl Nom
+"<США>"
+"<разрешили>"
+	"разрешить" V Perf IV Pst MFN Pl
+	"разрешить" V Perf TV Pst MFN Pl
+"<шести>"
+	"шесть" Num Dat
+	"шесть" Num Gen
+"<авиакомпаниям>"
+	"авиакомпания" N Fem Inan Pl Dat
+"<летать>"
+	"летать" V Impf IV Inf
+"<на>"
+	"на" Pr
+"<Кубу>"
+	"Куба" N Prop Sem/Alt Fem Inan Sg Acc
+"<4>"
+	"4" Num
+"<часа>"
+	"час" N Msc Inan Sg Gen
+"<назад>"
+	"назад" Adv
+"<Власти>"
+	"власти" N Fem Inan Pl Nom
+	"власти" N Fem Inan Pl Acc
+	"власть" N Fem Inan Sg Dat
+	"власть" N Fem Inan Pl Acc
+	"власть" N Fem Inan Sg Gen
+	"власть" N Fem Inan Pl Nom
+"<США>"
+"<разрешили>"
+	"разрешить" V Perf IV Pst MFN Pl
+	"разрешить" V Perf TV Pst MFN Pl
+"<шести>"
+	"шесть" Num Dat
+	"шесть" Num Gen
+"<авиакомпаниям>"
+	"авиакомпания" N Fem Inan Pl Dat
+"<летать>"
+	"летать" V Impf IV Inf
+"<на>"
+	"на" Pr
+"<Кубу>"
+	"Куба" N Prop Sem/Alt Fem Inan Sg Acc
+"<Сегодня>"
+	"сегодня" Adv
+	"сегодня" N Neu Inan Pl Nom
+	"сегодня" N Neu Inan Pl Acc
+	"сегодня" N Neu Inan Pl Ins
+	"сегодня" N Neu Inan Pl Dat
+	"сегодня" N Neu Inan Sg Gen
+	"сегодня" N Neu Inan Pl Gen
+	"сегодня" N Neu Inan Sg Nom
+	"сегодня" N Neu Inan Sg Acc
+	"сегодня" N Neu Inan Sg Ins
+	"сегодня" N Neu Inan Sg Dat
+"<Телеведущий>"
+	"телеведущий" N Msc Anim Sg Nom
+"<Евгений>"
+	"Евгения" N Prop Sem/Ant Fem Anim Pl Acc
+	"Евгения" N Prop Sem/Ant Fem Anim Pl Gen
+	"Евгения" N Prop Sem/Ant Fem Anim Sg Voc
+	"Евгений" N Prop Sem/Ant Msc Anim Sg Nom
+"<Киселев>"
+"<:>"
+	":" SENT
+"<ФСБ>"
+"<завела>"
+	"завести" V Perf IV Pst Fem Sg
+	"завести" V Perf TV Pst Fem Sg
+"<на>"
+	"на" Pr
+"<меня>"
+	"я¹" Pron Pers Sg1 Acc
+"<уголовное>"
+	"уголовный" A Neu AnIn Sg Nom
+	"уголовный" A Neu AnIn Sg Acc
+"<дело>"
+	"деть" V Perf IV Pst Neu Sg
+	"деть" V Perf TV Pst Neu Sg
+	"дело" N Neu Inan Sg Nom
+	"дело" N Neu Inan Sg Acc
+"<Известный>"
+	"известный" A Msc AnIn Sg Nom
+"<телеведущий>"
+	"телеведущий" N Msc Anim Sg Nom
+"<Евгений>"
+	"Евгения" N Prop Sem/Ant Fem Anim Pl Acc
+	"Евгения" N Prop Sem/Ant Fem Anim Pl Gen
+	"Евгения" N Prop Sem/Ant Fem Anim Sg Voc
+	"Евгений" N Prop Sem/Ant Msc Anim Sg Nom
+"<Киселев>"
+"<,>"
+	"," COMMA
+"<ныне>"
+	"ныне" Adv
+"<работающий>"
+	"работать" V Impf IV PrsAct Msc AnIn Sg Nom
+	"работать" V Impf IV PrsAct Msc Inan Sg Acc
+"<на>"
+	"на" Pr
+"<Украине>"
+	"Украина" N Prop Sem/Alt Fem Inan Sg Loc
+"<,>"
+	"," COMMA
+"<сообщил>"
+	"сообщить" V Perf IV Pst Msc Sg
+	"сообщить" V Perf TV Pst Msc Sg
+"<,>"
+	"," COMMA
+"<что>"
+	"что¹" Pron Rel Neu Inan Sg Nom
+	"что¹" Pron Rel Neu Inan Sg Acc
+	"что¹" Pron Interr Neu Inan Sg Nom
+	"что¹" Pron Interr Neu Inan Sg Acc
+	"что²" CS
+"<ФСБ>"
+"<России>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Россия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Россия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Россия" N Prop Sem/Alt Fem Inan Pl Nom
+"<завела>"
+	"завести" V Perf IV Pst Fem Sg
+	"завести" V Perf TV Pst Fem Sg
+"<на>"
+	"на" Pr
+"<него>"
+	"оно" Pron Pers Sg3 Neu Acc PObj @P←
+	"он¹" Pron Pers Sg3 Msc Acc PObj @P←
+"<дело>"
+	"деть" V Perf IV Pst Neu Sg
+	"деть" V Perf TV Pst Neu Sg
+	"дело" N Neu Inan Sg Nom
+	"дело" N Neu Inan Sg Acc
+"<по>"
+	"по" Pr
+"<статье>"
+	"статья" N Fem Inan Sg Dat
+	"статья" N Fem Inan Sg Loc
+"<">"
+	""" QUOT
+"<публичные>"
+	"публичный" A MFN AnIn Pl Nom
+	"публичный" A MFN Inan Pl Acc
+"<призывы>"
+	"призыв" N Msc Inan Pl Nom
+	"призыв" N Msc Inan Pl Acc
+"<к>"
+	"к" Pr
+"<осуществлению>"
+	"осуществление" N Neu Inan Sg Dat
+"<террористической>"
+	"террористический" A Fem AnIn Sg Ins
+	"террористический" A Fem AnIn Sg Dat
+	"террористический" A Fem AnIn Sg Gen
+"<деятельности>"
+	"деятельность" N Fem Inan Sg Dat
+	"деятельность" N Fem Inan Pl Acc
+	"деятельность" N Fem Inan Sg Gen
+	"деятельность" N Fem Inan Pl Nom
+"<или>"
+	"или" CC
+"<публичное>"
+	"публичный" A Neu AnIn Sg Nom
+	"публичный" A Neu AnIn Sg Acc
+"<оправдание>"
+	"оправдание" N Neu Inan Sg Nom
+	"оправдание" N Neu Inan Sg Acc
+"<терроризма">"
+"<.>"
+	"." SENT
+
+"<10>"
+	"10" Num
+"<июня>"
+	"июнь" N Msc Inan Sg Gen
+"<2016>"
+	"2016" Num
+"<Кто>"
+	"кто" Pron Rel MFN Anim Pl Nom
+	"кто" Pron Rel Fem Anim Sg Nom
+	"кто" Pron Rel Msc Anim Sg Nom
+	"кто" Pron Interr MFN Anim Pl Nom
+	"кто" Pron Interr Fem Anim Sg Nom
+	"кто" Pron Interr Msc Anim Sg Nom
+"<они>"
+	"они" Pron Pers Pl3 Nom
+"<–>"
+	"–" DASH
+"<фавориты>"
+	"фаворит" N Msc Anim Pl Nom
+"<и>"
+	"и" CC @CNP
+"<темные>"
+	"тёмный" A MFN AnIn Pl Nom
+	"тёмная" N Fem Inan Pl Nom
+"<лошадки>"
+	"лошадка" N Fem Anim Sg Gen
+	"лошадка" N Fem Anim Pl Nom
+"<ЧЕ-2016>"
+"<?>"
+	"?" SENT
+
+"<10>"
+	"10" Num
+"<июня>"
+	"июнь" N Msc Inan Sg Gen
+"<2016>"
+	"2016" Num
+"<Юбилей>"
+	"юбилей" N Msc Inan Sg Acc
+"<королевы>"
+	"королева" N Fem Anim Sg Gen
+	"королева" N Fem Anim Pl Nom
+"<начался>"
+	"начаться" V Perf IV Pst Msc Sg
+"<со>"
+	"с" Pr Epenth
+"<службы>"
+	"служба" N Fem Inan Sg Gen
+"<в>"
+	"в" Pr
+"<соборе>"
+	"собор" N Msc Inan Sg Loc
+"<Святого>"
+	"святой" N Msc Anim Sg Gen
+	"святой" N Msc Anim Sg Acc
+	"святой" A Neu AnIn Sg Gen
+	"святой" A Msc Anim Sg Acc
+	"святой" A Msc AnIn Sg Gen
+"<Павла>"
+	"Павел" N Prop Sem/Ant Msc Anim Sg Acc
+	"Павел" N Prop Sem/Ant Msc Anim Sg Gen
+"<10>"
+	"10" Num
+"<июня>"
+	"июнь" N Msc Inan Sg Gen
+"<2016>"
+	"2016" Num
+"<Реклама>"
+	"реклама" N Fem Inan Sg Nom
+"<Выбор>"
+	"выбор" N Msc Inan Sg Nom
+	"выбор" N Msc Inan Sg Acc
+"<редактора>"
+	"редактор" N Msc Anim Pl Nom
+	"редактор" N Msc Anim Sg Acc
+	"редактор" N Msc Anim Sg Gen
+"<Надежда>"
+	"Надежда" N Prop Sem/Ant Fem Anim Sg Nom
+"<Савченко>"
+"<:>"
+	":" SENT
+"<у>"
+	"у" Pr
+"<России>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Gen
+"<нет>"
+	"нет" N Neu Inan Pl Nom
+	"нет" N Neu Inan Pl Acc
+	"нет" N Neu Inan Pl Ins
+	"нет" Pred
+	"нет" Interj
+	"нет" N Neu Inan Pl Gen
+	"нет" N Neu Inan Sg Nom
+	"нет" N Neu Inan Sg Acc
+	"нет" N Neu Inan Sg Ins
+	"нет" N Neu Inan Sg Gen
+"<желания>"
+	"желание" N Neu Inan Sg Gen
+	"желание" N Neu Inan Pl Nom
+	"желание" N Neu Inan Pl Acc
+"<заканчивать>"
+	"заканчивать" V Impf TV Inf
+"<эту>"
+	"этот" Pron Dem Fem AnIn Sg Acc
+	"этот" Det Dem Fem AnIn Sg Acc
+	"эта" N Fem Inan Sg Acc
+"<войну>"
+	"война" N Fem Inan Sg Acc
+"<Видео>"
+	"видео" N Neu Inan Pl Nom
+	"видео" N Neu Inan Pl Acc
+	"видео" N Neu Inan Pl Ins
+	"видео" N Neu Inan Sg Ins
+	"видео" N Neu Inan Sg Gen
+	"видео" N Neu Inan Pl Gen
+	"видео" N Neu Inan Sg Nom
+	"видео" N Neu Inan Sg Acc
+"<12:45>"
+"<ТВ-новости>"
+"<:>"
+	":" SENT
+"<как>"
+	"как" Adv Rel
+	"как" Adv Interr
+	"как" CC
+	"как" CS
+"<обеспечивают>"
+	"обеспечивать" V Impf IV Prs Pl3
+	"обеспечивать" V Impf TV Prs Pl3
+"<безопасность>"
+	"безопасность" N Fem Inan Sg Acc
+	"безопасность" N Fem Inan Sg Nom
+"<на>"
+	"на" Pr
+"<Евро-2016>"
+"<Что>"
+	"что¹" Pron Rel Neu Inan Sg Nom
+	"что¹" Pron Rel Neu Inan Sg Acc
+	"что¹" Pron Interr Neu Inan Sg Nom
+	"что¹" Pron Interr Neu Inan Sg Acc
+	"что²" CS
+"<английские>"
+	"английский" A MFN AnIn Pl Nom
+"<болельщики>"
+	"болельщик" N Msc Anim Pl Nom
+"<знают>"
+	"знать²" V Impf IV Prs Pl3
+	"знать²" V Impf TV Prs Pl3
+"<о>"
+	"о" Pr
+"<российском>"
+	"российский" A Msc AnIn Sg Loc
+"<футболе>"
+	"футбол" N Msc Inan Sg Loc
+"<Тест>"
+	"тесто" N Neu Inan Pl Gen
+	"тест" N Msc Inan Sg Nom
+	"тест" N Msc Inan Sg Acc
+"<:>"
+	":" SENT
+"<что>"
+	"что¹" Pron Rel Neu Inan Sg Nom
+	"что¹" Pron Rel Neu Inan Sg Acc
+	"что¹" Pron Interr Neu Inan Sg Nom
+	"что¹" Pron Interr Neu Inan Sg Acc
+	"что²" CS
+"<вы>"
+	"вы" Pron Pers Pl2 Nom
+"<знаете>"
+	"знать²" V Impf IV Prs Pl2
+	"знать²" V Impf TV Prs Pl2
+"<о>"
+	"о" Pr
+"<чемпионатах>"
+	"чемпионат" N Msc Inan Pl Loc
+"<Европы>"
+	"Европа" N Prop Sem/Alt Fem Inan Sg Gen
+	"Европа" N Prop Sem/Alt Fem Inan Pl Nom
+	"Европа" N Prop Sem/Alt Fem Inan Pl Acc
+	"Европа" N Prop Sem/Ant Fem Anim Sg Gen
+	"Европа" N Prop Sem/Ant Fem Anim Pl Nom
+"<по>"
+	"по" Pr
+"<футболу>"
+	"футбол" N Msc Inan Sg Dat
+"<?>"
+	"?" SENT
+
+"<НДС>"
+"<на>"
+	"на" Pr
+"<зарубежные>"
+	"зарубежный" A MFN AnIn Pl Nom
+"<посылки>"
+	"посылка" N Fem Inan Sg Gen
+	"посылка" N Fem Inan Pl Nom
+"<в>"
+	"в" Pr
+"<Россию>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Acc
+"<:>"
+	":" SENT
+"<возможно>"
+	"возможный" A Neu Sg Pred
+	"возможно" Adv
+	"возможно" Pred
+	"возможно" Paren
+"<ли>"
+	"ли" Pcle
+	"ли" CS
+	"ли" N Neu Inan Pl Nom
+	"ли" N Neu Inan Sg Ins
+	"ли" N Neu Inan Pl Ins
+	"ли" N Neu Inan Sg Nom
+	"ли" N Neu Inan Sg Gen
+	"ли" N Neu Inan Pl Gen
+"<и>"
+	"и" Adv
+"<зачем>"
+	"зачем" Adv Rel
+	"зачем" Adv Interr
+"<?>"
+	"?" SENT
+
+"<Что>"
+	"что¹" Pron Rel Neu Inan Sg Nom
+	"что¹" Pron Rel Neu Inan Sg Acc
+	"что¹" Pron Interr Neu Inan Sg Nom
+	"что¹" Pron Interr Neu Inan Sg Acc
+	"что²" CS
+"<значит>"
+	"значить" V Impf IV Prs Sg3
+	"значить" V Impf TV Prs Sg3
+	"значит" Paren
+"<решение>"
+	"решение" N Neu Inan Sg Nom
+	"решение" N Neu Inan Sg Acc
+"<Сената>"
+	"сенат" N Msc Inan Sg Gen
+"<Франции>"
+	"Франция" N Prop Sem/Alt Fem Inan Sg Gen
+"<о>"
+	"о" Pr
+"<санкциях>"
+	"санкция" N Fem Inan Pl Loc
+"<против>"
+	"против" Pr
+"<России>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Gen
+"<США>"
+"<:>"
+	":" SENT
+"<Пять>"
+	"пятить" V Impf IV Imp Sg2
+	"пятить" V Impf TV Imp Sg2
+	"пять" Num Nom
+	"пять" Num Acc
+"<способов>"
+	"способ" N Msc Inan Pl Gen
+"<предсказать>"
+	"предсказать" V Perf IV Inf
+	"предсказать" V Perf TV Inf
+"<исход>"
+	"исход" N Msc Inan Sg Nom
+	"исход" N Msc Inan Sg Acc
+"<президентских>"
+	"президентский" A MFN AnIn Pl Gen
+"<выборов>"
+	"выбор" N Msc Inan Pl Gen
+	"выборы" N Msc Inan Pl Gen
+"<Об>"
+	"о" Pr Epenth
+"<износе>"
+	"износ" N Msc Inan Sg Loc
+"<Су-27>"
+"<говорят>"
+	"говорить" V Impf IV Prs Pl3
+	"говорить" V Impf TV Prs Pl3
+"<давно>"
+	"давно" Adv
+"<,>"
+	"," COMMA
+"<но>"
+	"но²" Interj
+	"но¹" CC
+"<они>"
+	"они" Pron Pers Pl3 Nom
+"<продолжают>"
+	"продолжать" V Impf IV Prs Pl3
+	"продолжать" V Impf TV Prs Pl3
+"<падать>"
+	"падать" V Impf IV Inf
+"<Петр>"
+	"Пётр" N Prop Sem/Ant Msc Anim Sg Nom
+"<Павленский>"
+"<:>"
+	":" SENT
+"<">"
+	""" QUOT
+"<Неподчинение>"
+	"неподчинение" N Neu Inan Sg Nom
+"<->"
+	"-" DASH
+"<лучший>"
+	"лучший" A Msc AnIn Sg Nom
+"<способ>"
+	"способ" N Msc Inan Sg Nom
+"<защиты>"
+	"защита" N Fem Inan Sg Gen
+	"защита" N Fem Inan Pl Nom
+	"защита" N Fem Inan Pl Acc
+"<">"
+	""" QUOT
+"<Самое>"
+	"самый" Det Neu AnIn Sg Nom
+	"самый" Det Neu AnIn Sg Acc
+	"самый" Pron Neu AnIn Sg Nom
+	"самый" Pron Neu AnIn Sg Acc
+"<популярное>"
+	"популярный" A Neu AnIn Sg Nom
+	"популярный" A Neu AnIn Sg Acc
+"<Самое>"
+	"самый" Det Neu AnIn Sg Nom
+	"самый" Det Neu AnIn Sg Acc
+	"самый" Pron Neu AnIn Sg Nom
+	"самый" Pron Neu AnIn Sg Acc
+"<популярное>"
+	"популярный" A Neu AnIn Sg Nom
+	"популярный" A Neu AnIn Sg Acc
+"<1>"
+	"1" Num
+"<Инэмури>"
+"<:>"
+	":" SENT
+"<японское>"
+	"японский" A Neu AnIn Sg Nom
+	"японский" A Neu AnIn Sg Acc
+"<искусство>"
+	"искусство" N Neu Inan Sg Nom
+	"искусство" N Neu Inan Sg Acc
+"<(>"
+	"(" LPAR
+"<не>"
+	"не" Pcle
+"<)>"
+	")" RPAR
+"<спать>"
+	"спать" V Impf IV Inf
+"<2>"
+	"2" Num
+"<Телеведущий>"
+	"телеведущий" N Msc Anim Sg Nom
+"<Евгений>"
+	"Евгения" N Prop Sem/Ant Fem Anim Pl Acc
+	"Евгения" N Prop Sem/Ant Fem Anim Pl Gen
+	"Евгения" N Prop Sem/Ant Fem Anim Sg Voc
+	"Евгений" N Prop Sem/Ant Msc Anim Sg Nom
+"<Киселев>"
+"<:>"
+	":" SENT
+"<ФСБ>"
+"<завела>"
+	"завести" V Perf IV Pst Fem Sg
+	"завести" V Perf TV Pst Fem Sg
+"<на>"
+	"на" Pr
+"<меня>"
+	"я¹" Pron Pers Sg1 Acc
+"<уголовное>"
+	"уголовный" A Neu AnIn Sg Nom
+	"уголовный" A Neu AnIn Sg Acc
+"<дело>"
+	"деть" V Perf IV Pst Neu Sg
+	"деть" V Perf TV Pst Neu Sg
+	"дело" N Neu Inan Sg Nom
+	"дело" N Neu Inan Sg Acc
+"<3>"
+	"3" Num
+"<Германия>"
+	"германий" N Msc Inan Sg Gen
+"<призвала>"
+	"призвать" V Perf IV Pst Fem Sg
+	"призвать" V Perf TV Pst Fem Sg
+"<МОК>"
+"<не>"
+	"не" Pcle
+"<допускать>"
+	"допускать" V Impf IV Inf
+	"допускать" V Impf TV Inf
+"<российских>"
+	"российский" A MFN Anim Pl Acc
+	"российский" A MFN AnIn Pl Gen
+"<атлетов>"
+	"атлет" N Msc Anim Pl Gen
+	"атлет" N Msc Anim Pl Acc
+"<к>"
+	"к" Pr
+"<Олимпиаде>"
+	"Олимпиада" N Prop Sem/Ant Fem Anim Sg Dat
+"<4>"
+	"4" Num
+"<Похороны>"
+	"похороны" N Fem Inan Pl Acc
+"<Мохаммеда>"
+"<Али>"
+	"Аля" N Prop Sem/Ant Fem Anim Sg Gen
+	"Аля" N Prop Sem/Ant Fem Anim Pl Nom
+	"Али" N Prop Sem/Ant Msc Anim Sg Dat
+	"али" Pcle
+	"Али" N Prop Sem/Ant Msc Anim Pl Nom
+	"Али" N Prop Sem/Ant Msc Anim Pl Acc
+	"Али" N Prop Sem/Ant Msc Anim Pl Ins
+	"Али" N Prop Sem/Ant Msc Anim Pl Dat
+	"Али" N Prop Sem/Ant Msc Anim Sg Gen
+	"Али" N Prop Sem/Ant Msc Anim Pl Gen
+	"Али" N Prop Sem/Ant Msc Anim Sg Nom
+	"Али" N Prop Sem/Ant Msc Anim Sg Acc
+	"Али" N Prop Sem/Ant Msc Anim Sg Ins
+"<начались>"
+	"начаться" V Perf IV Pst MFN Pl
+"<с>"
+	"с" Pr
+"<мусульманской>"
+	"мусульманский" A Fem AnIn Sg Ins
+	"мусульманский" A Fem AnIn Sg Gen
+"<церемонии>"
+	"церемония" N Fem Inan Sg Dat
+	"церемония" N Fem Inan Pl Acc
+	"церемония" N Fem Inan Sg Gen
+	"церемония" N Fem Inan Pl Nom
+"<прощания>"
+	"прощание" N Neu Inan Sg Gen
+	"прощание" N Neu Inan Pl Nom
+	"прощание" N Neu Inan Pl Acc
+"<5>"
+	"5" Num
+"<Фанаты>"
+	"фанат" N Msc Anim Pl Nom
+"<сборной>"
+	"сборный" A Fem AnIn Sg Ins
+	"сборный" A Fem AnIn Sg Dat
+	"сборная" N Fem Inan Sg Dat
+	"сборный" A Fem AnIn Sg Gen
+	"сборная" N Fem Inan Sg Ins
+	"сборная" N Fem Inan Sg Gen
+"<Англии>"
+	"Англия" N Prop Sem/Alt Fem Inan Sg Dat
+	"Англия" N Prop Sem/Alt Fem Inan Pl Acc
+	"Англия" N Prop Sem/Alt Fem Inan Sg Gen
+	"Англия" N Prop Sem/Alt Fem Inan Pl Nom
+"<подрались>"
+	"подраться" V Perf IV Pst MFN Pl
+"<с>"
+	"с" Pr
+"<полицейскими>"
+	"полицейский" N Msc Anim Pl Ins
+	"полицейский" A MFN AnIn Pl Ins
+"<в>"
+	"в" Pr
+"<Марселе>"
+	"марсель" N Msc Inan Sg Loc
+	"Марсель²" N Prop Sem/Alt Msc Inan Sg Loc
+	"Марсель¹ь" N Prop Sem/Ant Msc Anim Sg Loc
+"<6>"
+	"6" Num
+"<Кто>"
+	"кто" Pron Rel MFN Anim Pl Nom
+	"кто" Pron Rel Fem Anim Sg Nom
+	"кто" Pron Rel Msc Anim Sg Nom
+	"кто" Pron Interr MFN Anim Pl Nom
+	"кто" Pron Interr Fem Anim Sg Nom
+	"кто" Pron Interr Msc Anim Sg Nom
+"<они>"
+	"они" Pron Pers Pl3 Nom
+"<–>"
+	"–" DASH
+"<фавориты>"
+	"фаворит" N Msc Anim Pl Nom
+"<и>"
+	"и" CC @CNP
+"<темные>"
+	"тёмный" A MFN AnIn Pl Nom
+	"тёмная" N Fem Inan Pl Nom
+"<лошадки>"
+	"лошадка" N Fem Anim Sg Gen
+	"лошадка" N Fem Anim Pl Nom
+"<ЧЕ-2016>"
+"<?>"
+	"?" SENT
+
+"<7>"
+	"7" Num
+"<Блогер>"
+"<Антон>"
+	"Антон" N Prop Sem/Ant Msc Anim Sg Nom
+"<Носик>"
+	"носик" N Msc Inan Sg Nom
+	"носик" N Msc Inan Sg Acc
+"<:>"
+	":" SENT
+"<скоро>"
+	"скоро" Adv
+"<стану>"
+	"стать²" V Perf IV Fut Sg1
+"<подсудимым>"
+	"подсудимый" N Msc Anim Pl Dat
+	"подсудимый" N Msc Anim Sg Ins
+	"подсудимая" N Fem Anim Pl Dat
+"<8>"
+	"8" Num
+"<Спектакль>"
+	"спектакль" N Msc Inan Sg Acc
+"<">"
+	""" QUOT
+"<Пушкин>"
+	"Пушкин" N Prop Sem/Alt Msc Inan Sg Nom
+	"Пушкин" N Prop Sem/Alt Msc Inan Sg Acc
+	"Пушкин" N Prop Sem/Sur Msc Anim Sg Nom
+"<и>"
+	"и" CC
+"<деньги>"
+	"деньги" N Fem Inan Pl Nom
+	"деньги" N Fem Inan Pl Acc
+"<">"
+	""" QUOT
+"<снят>"
+	"снять" V Perf TV PstPss Msc Sg Pred
+"<с>"
+	"с" Pr
+"<фестиваля>"
+	"фестиваль" N Msc Inan Sg Gen
+"<">"
+	""" QUOT
+"<по>"
+	"по" Pr
+"<цензуре>"
+	"цензура" N Fem Inan Sg Dat
+	"цензура" N Fem Inan Sg Loc
+"<">"
+	""" QUOT
+"<9>"
+	"9" Num
+"<Надежда>"
+	"Надежда" N Prop Sem/Ant Fem Anim Sg Nom
+"<Савченко>"
+"<:>"
+	":" SENT
+"<у>"
+	"у" Pr
+"<России>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Gen
+"<нет>"
+	"нет" N Neu Inan Pl Nom
+	"нет" N Neu Inan Pl Acc
+	"нет" N Neu Inan Pl Ins
+	"нет" N Neu Inan Pl Dat
+	"нет" Interj
+	"нет" N Neu Inan Pl Gen
+	"нет" N Neu Inan Sg Nom
+	"нет" N Neu Inan Sg Acc
+	"нет" N Neu Inan Sg Ins
+	"нет" N Neu Inan Sg Dat
+	"нет" Pred
+	"нет" N Neu Inan Sg Gen
+"<желания>"
+	"желание" N Neu Inan Sg Gen
+	"желание" N Neu Inan Pl Nom
+	"желание" N Neu Inan Pl Acc
+"<заканчивать>"
+	"заканчивать" V Impf TV Inf
+"<эту>"
+	"этот" Pron Dem Fem AnIn Sg Acc
+	"этот" Det Dem Fem AnIn Sg Acc
+	"эта" N Fem Inan Sg Acc
+"<войну>"
+	"война" N Fem Inan Sg Acc
+"<10>"
+	"10" Num
+"<Юбилей>"
+	"юбилей" N Msc Inan Sg Acc
+"<королевы>"
+	"королева" N Fem Anim Sg Gen
+	"королева" N Fem Anim Pl Nom
+"<начался>"
+	"начаться" V Perf IV Pst Msc Sg
+"<со>"
+	"с" Pr Epenth
+"<службы>"
+	"служба" N Fem Inan Sg Gen
+"<в>"
+	"в" Pr
+"<соборе>"
+	"собор" N Msc Inan Sg Loc
+"<Святого>"
+	"святой" N Msc Anim Sg Gen
+	"святой" N Msc Anim Sg Acc
+	"святой" A Neu AnIn Sg Gen
+	"святой" A Msc Anim Sg Acc
+	"святой" A Msc AnIn Sg Gen
+"<Павла>"
+	"Павел" N Prop Sem/Ant Msc Anim Sg Acc
+	"Павел" N Prop Sem/Ant Msc Anim Sg Gen
+"<Russian>"
+"<navigation>"
+"<Разделы>"
+	"раздел" N Msc Inan Pl Nom
+	"раздел" N Msc Inan Pl Acc
+"<Главная>"
+	"главный" A Fem AnIn Sg Nom
+"<Новости>"
+	"новость" N Fem Inan Sg Dat
+	"новость" N Fem Inan Pl Acc
+	"новость" N Fem Inan Sg Gen
+	"новость" N Fem Inan Pl Nom
+"<В>"
+	"в" Pr
+"<мире>"
+	"мир" N Msc Inan Sg Loc
+"<Россия>"
+	"Россия" N Prop Sem/Alt Fem Inan Sg Nom
+"<Видео>"
+	"видео" N Neu Inan Pl Nom
+	"видео" N Neu Inan Pl Acc
+	"видео" N Neu Inan Pl Ins
+	"видео" N Neu Inan Pl Dat
+	"видео" N Neu Inan Sg Gen
+	"видео" N Neu Inan Pl Gen
+	"видео" N Neu Inan Sg Nom
+	"видео" N Neu Inan Sg Acc
+	"видео" N Neu Inan Sg Ins
+	"видео" N Neu Inan Sg Dat
+"<Выбор>"
+	"выбор" N Msc Inan Sg Nom
+	"выбор" N Msc Inan Sg Acc
+"<редактора>"
+	"редактор" N Msc Anim Pl Nom
+	"редактор" N Msc Anim Sg Acc
+	"редактор" N Msc Anim Sg Gen
+"<Журнал>"
+	"журнал" N Msc Inan Sg Nom
+	"журнал" N Msc Inan Sg Acc
+"<Блоги>"
+"<Британия>"
+	"Британия" N Prop Sem/Alt Fem Inan Sg Nom
+"<Экономика>"
+	"экономика" N Fem Inan Sg Nom
+"<Спорт>"
+	"спорт" N Msc Inan Sg Nom
+	"спорт" N Msc Inan Sg Acc
+"<Наука>"
+	"наука" N Fem Inan Sg Nom
+"<Общество>"
+	"общество" N Neu Inan Sg Nom
+	"общество" N Neu Inan Sg Acc
+"<Аналитика>"
+	"аналитик" N Msc Anim Sg Acc
+	"аналитик" N Msc Anim Sg Gen
+	"аналитика" N Fem Inan Sg Nom
+"<Learning>"
+"<English>"
+"<Фото>"
+	"фото" N Neu Inan Pl Nom
+	"фото" N Neu Inan Pl Acc
+	"фото" N Neu Inan Pl Ins
+	"фото" N Neu Inan Pl Dat
+	"фото" N Neu Inan Sg Gen
+	"фото" N Neu Inan Pl Gen
+	"фото" N Neu Inan Sg Nom
+	"фото" N Neu Inan Sg Acc
+	"фото" N Neu Inan Sg Ins
+	"фото" N Neu Inan Sg Dat
+"<Навигация>"
+	"навигация" N Fem Inan Sg Nom
+"<на>"
+	"на" Pr
+"<сайте>"
+	"сайт" N Msc Inan Sg Loc
+"<News>"
+"<Sport>"
+"<Weather>"
+"<Radio>"
+"<Правила>"
+	"править²" V Impf IV Pst Fem Sg
+	"править²" V Impf TV Pst Fem Sg
+	"править¹" V Impf IV Pst Fem Sg
+	"правило" N Neu Inan Pl Nom
+	"правило" N Neu Inan Pl Acc
+	"правило" N Neu Inan Sg Gen
+"<пользования>"
+	"пользование" N Neu Inan Sg Gen
+	"пользование" N Neu Inan Pl Nom
+	"пользование" N Neu Inan Pl Acc
+"<О>"
+	"о²" N Neu Inan Pl Nom
+	"о²" N Neu Inan Pl Acc
+	"о²" N Neu Inan Pl Ins
+	"о²" N Neu Inan Pl Dat
+	"о²" N Neu Inan Pl Gen
+	"о²" N Neu Inan Sg Nom
+	"о²" N Neu Inan Sg Acc
+	"о²" N Neu Inan Sg Ins
+	"о²" N Neu Inan Sg Dat
+	"о²" N Neu Inan Sg Gen
+"<Би-би-си>"
+"<Приватность>"
+"<Cookies>"
+"<Accessibility>"
+"<Help>"
+"<Parental>"
+"<Guidance>"
+"<Связаться>"
+	"связаться" V Perf IV Inf
+"<с>"
+	"с" Pr
+"<Би-би-си>"
+"<Реклама>"
+	"реклама" N Fem Inan Sg Nom
+"<на>"
+	"на" Pr
+"<нашем>"
+	"наш¹" Det Pos Msc AnIn Sg Loc @N→
+"<сайте>"
+	"сайт" N Msc Inan Sg Loc
+"<О>"
+	"о" Pr
+"<рекламе>"
+	"реклама" N Fem Inan Sg Loc
+"<Copyright>"
+"<©>"
+"<2016>"
+	"2016" Num
+"<Би-би-си>"
+"<.>"
+	"." SENT
+
+"<Би-би-си>"
+"<не>"
+	"не" Pcle
+"<несет>"
+	"нести" V Impf IV Prs Sg3
+"<ответственности>"
+	"ответственность" N Fem Inan Sg Gen
+	"ответственность" N Fem Inan Pl Nom
+"<за>"
+	"за" Pr
+"<содержание>"
+	"содержание" N Neu Inan Sg Acc
+"<других>"
+	"другой" Pron MFN AnIn Pl Gen
+	"другой" N Msc Anim Pl Gen
+	"другой" Det MFN AnIn Pl Gen
+"<сайтов>"
+	"сайт" N Msc Inan Pl Gen
+"<.>"
+	"." SENT
+
+"<Ознакомьтесь>"
+	"ознакомиться" V Perf IV Imp Pl2
+"<с>"
+	"с" Pr
+"<нашей>"
+	"нашить" V Perf IV Imp Sg2
+	"наш¹" Pron Pos Fem AnIn Sg Gen
+	"наш¹" Det Pos Fem AnIn Sg Ins
+	"наш¹" Pron Pos Fem AnIn Sg Ins
+"<позицией>"
+	"позиция" N Fem Inan Sg Ins
+"<в>"
+	"в" Pr
+"<отношении>"
+	"отношение" N Neu Inan Sg Loc
+"<внешних>"
+	"внешний" A MFN AnIn Pl Gen
+"<ссылок>"
+	"ссылка" N Fem Inan Pl Gen
+"<.>"
+	"." SENT
+
+"<Krux>"
+"<(>"
+	"(" LPAR
+"<'scrape>"
+"<'>"
+"<,>"
+	"," COMMA
+"<{>"
+"<'page_attr_description'>"
+"<:>"
+	":" SENT
+"<{meta_name>"
+"<:>"
+	":" SENT
+"<'>"
+"<Description'}>"
+"<}>"
+"<)>"
+	")" RPAR
+"<;>"
+	";" SENT
+

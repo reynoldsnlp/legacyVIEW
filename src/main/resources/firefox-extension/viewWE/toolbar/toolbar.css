@@ -1,0 +1,62 @@
+body {
+  overflow: hidden;
+  color: black;
+  background: rgba(255,255,255,0.9);
+}
+
+.wertiview-toolbar-menu {
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;	
+}
+
+.wertiview-toolbar-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.wertiview-toolbar-btn:hover, .wertiview-toolbar-btn:focus{
+    background-color: #3e8e41;
+}
+
+.wertiview-toolbar-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+#wertiview-toolbar-loading-image {
+	width: 18px;
+}
+
+#wertiview-toolbar-toggle {
+  right: 4px;
+  position: absolute;
+}
+
+/* wertiview-toolbar-identity-signingroup */
+
+#wertiview-toolbar-identity-signingroup {
+	display: inline;
+}
+
+#wertiview-toolbar-identity-signedinstatus {
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+#wertiview-toolbar-identity-signedinuserid {
+	padding-left: 0px; 
+	margin-left: 0px;
+}
+
+#wertiview-toolbar-identity-signinlink,
+#wertiview-toolbar-identity-signoutlink {
+	cursor: pointer;
+	color: blue;
+	text-decoration: underline;
+}

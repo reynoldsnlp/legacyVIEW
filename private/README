@@ -1,0 +1,22 @@
+This folder contains files not open for public.
+Make sure that the *.p12 file inside this folder is never committed to
+the repository. (security issue)
+
+When you work on this project please add the following files manually:
+
+*.p12 (private key for service account)
+
+The following files need to be changed eventually:
+
+identity-toolkit-java-master/gitkit-server-config.json (server configuration file)
+identity-toolkit-java-master/templates/gitkit-widget.html (client configuration file)
+
+Make sure that in the server configuration file
+the  "serviceAccountPrivateKeyFile": is specified
+so that "INSERT/PATH/TO/PRIVATEKEY" is the full path to the
+private key starting with "/" and ending with the *.p12 file name.
+
+For client configuration go to 
+https://developers.google.com/identity/toolkit/web/quickstart/java
+
+and do step 2, 5. if neccessary (widget.html is actually gitkit-widget.html)

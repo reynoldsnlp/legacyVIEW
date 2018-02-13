@@ -1,0 +1,7 @@
+{
+  "clientId": "656845598488-vj2vemtv7n666b0nn4uic4ljoie49st0.apps.googleusercontent.com <http://656845598488-vj2vemtv7n666b0nn4uic4ljoie49st0.apps.googleusercontent.com>",
+  "serviceAccountEmail": "account-1@rus-view.iam.gserviceaccount.com <mailto:account-1@rus-view.iam.gserviceaccount.com>",
+  "serviceAccountPrivateKeyFile": "/home/eduard/workspace/VIEW/private/rusVIEW-acad8cd8476e.p12",
+  "widgetUrl": "http://localhost:8080/VIEW/openid/sign-in-prompt.html",
+  "cookieName": "gtoken"
+}
